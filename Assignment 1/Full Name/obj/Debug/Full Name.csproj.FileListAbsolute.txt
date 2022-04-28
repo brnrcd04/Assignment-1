@@ -1,0 +1,12 @@
+C:\Users\bern\source\repos\Full Name\Full Name\bin\Debug\Full Name.exe.config
+C:\Users\bern\source\repos\Full Name\Full Name\bin\Debug\Full Name.exe
+C:\Users\bern\source\repos\Full Name\Full Name\bin\Debug\Full Name.pdb
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full Name.csproj.AssemblyReference.cache
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full Name.csproj.SuggestedBindingRedirects.cache
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full_Name.Form1.resources
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full_Name.Properties.Resources.resources
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full Name.csproj.GenerateResource.cache
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full Name.csproj.CoreCompileInputs.cache
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full Name.exe
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full Name.pdb
+C:\Users\bern\source\repos\Full Name\Full Name\obj\Debug\Full_Name.messageboxfullname.resources
